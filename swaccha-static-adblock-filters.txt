@@ -25,6 +25,7 @@ www.setopati.com##.mobile-fixed-ad
 ||www.nepalhomes.com/*.html$subdocument
 ||onlinekhabar.com/wp-content/uploads/*.gif
 www.onlinekhabar.com##.ok_roadblock
+www.onlinekhabar.com##.ok18-roadblock-wrap
 www.onlinekhabar.com##div[class*="-ad"]
 www.onlinekhabar.com###ok-box-ad-wrap
 www.onlinekhabar.com##.okam-each-ad

@@ -176,6 +176,7 @@ thahakhabar.com##.bigyapan-gif-gallery
 ||creative.hamropatro.com/img/*$image
 ||adsnetwork.hamropatro.com
 ||bigyapan.hamropatro.com/parchar/*$subdocument
+hamropatro.com##.header-banner
 ! ----- END https://www.hamropatro.com/ -----
 
 ! ----- START https://www.gadgetbytenepal.com -----

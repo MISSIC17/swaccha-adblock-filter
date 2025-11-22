@@ -26,7 +26,7 @@ www.setopati.com##.footer
 ||www.nepalhomes.com/*.html$subdocument
 ||onlinekhabar.com/wp-content/uploads/*.gif
 www.onlinekhabar.com##.ok_roadblock
-www.onlinekhabar.com##*:has(span.ok-bises-tag:has-text(एनपीएल))
+www.onlinekhabar.com##.ok-container:has-text(/एनपीएल/)
 
 www.onlinekhabar.com##article:has-text(/एनपीएल/i)
 www.onlinekhabar.com##div:has-text(/एनपीएल/i)

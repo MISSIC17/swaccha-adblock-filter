@@ -26,13 +26,9 @@ www.setopati.com##.footer
 ||www.nepalhomes.com/*.html$subdocument
 ||onlinekhabar.com/wp-content/uploads/*.gif
 www.onlinekhabar.com##.ok_roadblock
-www.onlinekhabar.com##*:has-text(एनपीएल):upward(1)
-www.onlinekhabar.com##*:has-text(/एनपीएल/i):upward(1)
-www.onlinekhabar.com##*:has-text(/नेपाल प्रिमियर लिग/i):upward(1)
-www.onlinekhabar.com##*:has-text(/सन्दीप लामिछाने/i):upward(1)
-www.onlinekhabar.com##.ok-container:has(.ok-bises-tag:has-text(एनपीएल))
-www.onlinekhabar.com##.ok-container:has-text(/नेपाल प्रिमियर लिग/i)
-www.onlinekhabar.com##.ok-container:has-text(/सन्दीप लामिछाने/i)
+www.onlinekhabar.com##*:has(.ok-bises-tag:has-text(एनपीएल))
+www.onlinekhabar.com##article:has-text(/एनपीएल|नेपाल प्रिमियर लिग|सन्दीप लामिछाने/i)
+www.onlinekhabar.com##div:has-text(/एनपीएल|नेपाल प्रिमियर लिग|सन्दीप लामिछाने/i)
 www.onlinekhabar.com##.cric_result_home
 www.onlinekhabar.com##.ok18-roadblock-wrap
 www.onlinekhabar.com##div[class*="-ad"]
